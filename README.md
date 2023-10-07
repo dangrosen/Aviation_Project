@@ -9,7 +9,7 @@
 We analyzed risk factors involved with HDK % Co. starting a new aviation division.  Selecting the aircrafts with the least amount of risk involves many factors.  The accident data that we studied allowed us to focus on some of these, including different aircraft manufacturers, the type of airplane build, and weather conditions.
 
 <div style="text-align: center;" style="border: 2px solid black;">
-    <img src="plane_with_blue_sky.jpg" alt="Airplane in Storm" width="1000" height="400">
+    <img src="images/plane_with_blue_sky.jpg" alt="Plane with blue sky" width="1000" height="400">
 </div>
 
 ## Business Problem
@@ -29,21 +29,21 @@ Some of the key takeaways are shown in the following graphs:
 Accidents involving injuries, especially fatalities, have been decreasing over the last 30 years.
 
 <div style="text-align: center;" style="border: 2px solid black;">
-    <img src="injury_type_over_time.jpg" alt="Airplane in Storm" width="800" height="400">
+    <img src="images/injury_type_over_time.jpg" alt="Injury Over Time" width="800" height="400">
 </div>
 
 <br>
 <br/>
 
 <div style="text-align: center;" style="border: 2px solid black;">
-    <img src="accidents_by_weather_type.png" alt="Airplane in Storm" width="800" height="500">
+    <img src="images/accidents_by_weather_type.png" alt="Accidents by Weather" width="800" height="500">
 </div>
 
 <br>
 <br/>
 
 <div style="text-align: center;" style="border: 2px solid black;">
-    <img src="manufacturer_performance.jpg" alt="Airplane in Storm" width="800" height="500">
+    <img src="images/manufacturer_performance.jpg" alt="Manufacturer Performance" width="800" height="500">
 </div>
 
 
