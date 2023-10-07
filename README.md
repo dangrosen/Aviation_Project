@@ -1,4 +1,6 @@
-![top image](https://static.mobilityengineeringtech.com/images/econa/fields/3/com_content_article/40078/adt-1021-p8_fig1_primary-feature-item.jpg)<img src="image.png" width="800" height="225">
+<div style="text-align: center;" style="border: 2px solid black;">
+    <img src="plane_with_sunset.jpg" alt="Airplane in Storm" width="1000" height="400">
+</div>
 
 # Risk Analysis: HDK % Co. New Aviation Division
 
@@ -6,7 +8,9 @@
 
 We analyzed risk factors involved with HDK % Co. starting a new aviation division.  Selecting the aircrafts with the least amount of risk involves many factors.  The accident data that we studied allowed us to focus on some of these, including different aircraft manufacturers, the type of airplane build, and weather conditions.
 
-![second_image](https://www.aerotime.aero/images/Shutterstock_2187109333.jpg)
+<div style="text-align: center;" style="border: 2px solid black;">
+    <img src="plane_with_blue_sky.jpg" alt="Airplane in Storm" width="1000" height="400">
+</div>
 
 ## Business Problem
 
@@ -22,10 +26,10 @@ There were some limitations to the data, however.  We did not know the total num
 
 Some of the key takeaways are shown in the following graphs:
 
-![output](https://github.com/dangrosen/Aviation_Project/assets/144970048/60b48b2f-3f68-4fe2-81c7-57fe5ce1bd61)
 
 
-![Dashboard 1](https://github.com/dangrosen/Aviation_Project/assets/144970048/e256a4cc-ed27-4f61-843f-fd6d7c6164cd)
+
+
 
 
 
