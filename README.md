@@ -1,5 +1,5 @@
 <div style="text-align: center;" style="border: 2px solid black;">
-    <img src="images/plane_with_sunset.jpg" alt="Plane with sunset" width="1000" height="400">
+    <img src="https://github.com/dangrosen/Aviation_Project/blob/main/images/plane_with_sunset.jpg" alt="Plane with sunset" width="1000" height="400">
 </div>
 
 # Risk Analysis: HDK & Co. New Aviation Division
