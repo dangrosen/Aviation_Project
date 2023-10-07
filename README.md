@@ -1,5 +1,5 @@
 <div style="text-align: center;" style="border: 2px solid black;">
-    <img src="https://github.com/dangrosen/Aviation_Project/blob/main/images/plane_with_sunset.jpg" alt="Plane with sunset" width="1000" height="400">
+    <img src="images/plane_with_sunset.jpg" alt="Plane with sunset" width="1000" height="300">
 </div>
 
 # Risk Analysis: HDK & Co. New Aviation Division
@@ -9,7 +9,7 @@
 We analyzed risk factors involved with HDK % Co. starting a new aviation division.  Selecting the aircrafts with the least amount of risk involves many factors.  The accident data that we studied allowed us to focus on some of these, including different aircraft manufacturers, the type of airplane build, and weather conditions.
 
 <div style="text-align: center;" style="border: 2px solid black;">
-    <img src="images/plane_with_blue_sky.jpg" alt="Plane with blue sky" width="1000" height="400">
+    <img src="images/plane_with_blue_sky.jpg" alt="Plane with blue sky" width="1000" height="300">
 </div>
 
 ## Business Problem
