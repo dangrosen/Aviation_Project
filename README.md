@@ -35,14 +35,16 @@ Accidents involving injuries, especially fatalities, have been decreasing over t
 <br>
 <br/>
 
-We looked at accidents for each of the 10 manufacturers, comparing those in clear weather agains those occurring during inclement weather.  
+We looked at accidents for each of the 10 manufacturers, comparing those in clear weather against those occurring during inclement weather.  The two best companies with the lowest percentage of their accidents in poor weather were Diamond and Cessna.
 
 <div style="text-align: center;" style="border: 2px solid black;">
-    <img src="images/accidents_by_weather_type.png" alt="Accidents by Weather" width="800" height="500">
+    <img src="images/accidents_by_weather_condition.jpg" alt="Accidents by Weather" width="800" height="500">
 </div>
 
 <br>
 <br/>
+
+Comparing the average number of fatalities per accident in inclement weather by each of the top manufactures demonstrates that Bombardier is the standout.  In fact, there have been no deaths on Bombardier aircraft in such incidents.
 
 <div style="text-align: center;" style="border: 2px solid black;">
     <img src="images/manufacturer_performance.jpg" alt="Manufacturer Performance" width="800" height="500">
@@ -69,6 +71,12 @@ Further analysis is required to improve risk assessment and gain beneficial insi
 - Analyze location data to identify favorable air routes and airports
 - Study economic data, including costs of aircrafts from the recommended manufacturers
 - Implement FRAT (Flight risk assessment tool) for pilots
+
+<br>
+
+<div style="text-align: center;" style="border: 2px solid black;">
+    <img src="images/black_white_plane.png" alt="Black plane on white" width="200" height="200">
+</div>
 
 ## Appendix
 
