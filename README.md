@@ -26,11 +26,25 @@ There were some limitations to the data, however.  We did not know the total num
 
 Some of the key takeaways are shown in the following graphs:
 
+djmkdyhkjmdyhjkmdyh
 
+<div style="text-align: center;" style="border: 2px solid black;">
+    <img src="injury_type_over_time.jpg" alt="Airplane in Storm" width="800" height="400">
+</div>
 
+<br>
+<br/>
 
+<div style="text-align: center;" style="border: 2px solid black;">
+    <img src="accidents_by_weather_type.png" alt="Airplane in Storm" width="800" height="500">
+</div>
 
+<br>
+<br/>
 
+<div style="text-align: center;" style="border: 2px solid black;">
+    <img src="manufacturer_performance.jpg" alt="Airplane in Storm" width="800" height="500">
+</div>
 
 
 ## Conclusion
@@ -56,9 +70,15 @@ Further analysis is required to improve risk assessment and gain beneficial insi
 
 ## Appendix
 
-The complete analysis can be found in the NOTEBOOK and in our PRESENTATION.
+The complete analysis can be found in the <a href="aviation_division_FINAL.ipynb">Jupyter Notebook</a> and in our PRESENTATION.
 
 To view the interactive visuals, please see the [dashboard](https://public.tableau.com/app/profile/harshitha.thota/viz/AviationRiskAnalysis/Dashboard1).
+
+For technical questions, please contact Kari Primiano at <a href="mailto:kkprim@gmail.com">kkprim@gmail.com</a>.
+<br>
+For presentation or visualizations questions, please contact Harshitha Thota at <a href="mailto:harshitha.thota@gmail.com">harshitha.thota@gmail.com</a>.
+<br>
+For general questions, please contact Dan Rosen at <a href="mailto:dan_rosen@outlook.com">dan_rosen@outlook.com</a>.
 
 <Links to sources?>
 
