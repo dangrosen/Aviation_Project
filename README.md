@@ -2,7 +2,7 @@
     <img src="plane_with_sunset.jpg" alt="Airplane in Storm" width="1000" height="400">
 </div>
 
-# Risk Analysis: HDK % Co. New Aviation Division
+# Risk Analysis: HDK & Co. New Aviation Division
 
 ## Overview
 
@@ -70,11 +70,9 @@ Further analysis is required to improve risk assessment and gain beneficial insi
 
 ## Appendix
 
-The complete analysis can be found in the <a href="aviation_division_FINAL.ipynb" target="_blank">Jupyter Notebook</a> and in our <a href="presentation.pdf" target="_blank">presentation</a>.
+The complete analysis can be found in the <a href="aviation_division_FINAL.ipynb">Jupyter Notebook</a> and in our <a href="presentation.pdf">presentation</a>.
 
-To view the interactive visuals, please see the <a href="https://public.tableau.com/app/profile/harshitha.thota/viz/AviationRiskAnalysis/Dashboard1" target="_blank">dashboard</a>.
-
-To view the interactive visuals, please see the [dashboard](https://public.tableau.com/app/profile/harshitha.thota/viz/AviationRiskAnalysis/Dashboard1).
+To view the interactive visuals, please see the <a href="https://public.tableau.com/app/profile/harshitha.thota/viz/AviationRiskAnalysis/Dashboard1">dashboard</a>.
 
 For technical questions, please contact Kari Primiano at <a href="mailto:kkprim@gmail.com">kkprim@gmail.com</a>.
 <br>
@@ -82,7 +80,12 @@ For presentation or visualizations questions, please contact Harshitha Thota at 
 <br>
 For general questions, please contact Dan Rosen at <a href="mailto:dan_rosen@outlook.com">dan_rosen@outlook.com</a>.
 
-<Links to sources?>
+**Sources**
+
+<a href="https://www.airbus.com/en/products-services/commercial-aircraft/the-life-cycle-of-an-aircraft/operating-life">30 years for airplane lifetime</a>
+<a href="https://assetsamerica.com/aircraft-manufacturers/">Top 10 airplane manufacturers</a>
+<a href="https://www.faa.gov/about/history/brief_history">1950's air safety standards</a>
+<a href="https://medium.com/faa/introduction-to-safety-risk-management-8e1b1ac15b4c">FRAT tools</a>
 
 ## Repository Structure
 
