@@ -35,6 +35,8 @@ Accidents involving injuries, especially fatalities, have been decreasing over t
 <br>
 <br/>
 
+We looked at accidents for each of the 10 manufacturers, comparing those in clear weather agains those occurring during inclement weather.  
+
 <div style="text-align: center;" style="border: 2px solid black;">
     <img src="images/accidents_by_weather_type.png" alt="Accidents by Weather" width="800" height="500">
 </div>
@@ -89,6 +91,8 @@ For general questions, please contact Dan Rosen at <a href="mailto:dan_rosen@out
 <a href="https://www.faa.gov/about/history/brief_history">1950's air safety standards</a>
 <br>
 <a href="https://medium.com/faa/introduction-to-safety-risk-management-8e1b1ac15b4c">FRAT tools</a>
+<br>
+<a href="https://support.google.com/legal/answer/4558992?sjid=6527994228234462941-NA">Image citation</a>
 
 ## Repository Structure
 
