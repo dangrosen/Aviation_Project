@@ -70,7 +70,7 @@ Further analysis is required to improve risk assessment and gain beneficial insi
 
 ## Appendix
 
-The complete analysis can be found in the <a href="aviation_division_FINAL.ipynb">Jupyter Notebook</a> and in our PRESENTATION.
+The complete analysis can be found in the <a href="aviation_division_FINAL.ipynb">Jupyter Notebook</a> and in our <a href="presentation.pdf">presentation</a>.
 
 To view the interactive visuals, please see the [dashboard](https://public.tableau.com/app/profile/harshitha.thota/viz/AviationRiskAnalysis/Dashboard1).
 
