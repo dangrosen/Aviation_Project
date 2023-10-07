@@ -6,7 +6,7 @@
 
 ## Overview
 
-We analyzed risk factors involved with HDK % Co. starting a new aviation division.  Selecting the aircrafts with the least amount of risk involves many factors.  The accident data that we studied allowed us to focus on some of these, including different aircraft manufacturers, the type of airplane build, and weather conditions.
+We analyzed risk factors involved with HDK & Co. starting a new aviation division.  Selecting the aircrafts with the least amount of risk involves many factors.  The accident data that we studied allowed us to focus on some of these, including different aircraft manufacturers, the type of airplane build, and weather conditions.
 
 <div style="text-align: center;" style="border: 2px solid black;">
     <img src="images/plane_with_blue_sky.jpg" alt="Plane with blue sky" width="1000" height="300">
@@ -20,7 +20,7 @@ While aircraft safety has made significant improvements in recent decades, the n
 
 ## Data Understanding and Analysis
 
-For our data, we looked at NTSB aviation accident records from 1962 to 2023.  Our dataset started with about 89,000 accident records from US and foreign flights.  We narrowed down those records to accidents occurring in the last 30 years and involving professionally built airplanes from the top 10 manufacturers.  The records that we focused on most specifically from that group included weather conditions during accidents and the severity of injuries incurred from the accidents.
+For our [data](data/AviationData.csv), we looked at NTSB aviation accident records from 1948 to 2022.  Our dataset started with about 89,000 accident records from US and foreign flights.  We narrowed down those records to accidents occurring in the last 30 years and involving professionally built airplanes from the top 10 manufacturers.  The records that we focused on most specifically from that group included weather conditions during accidents and the severity of injuries incurred from the accidents.
 
 There were some limitations to the data, however.  We did not know the total number of flights that did not involve some type of incident, and we did not have information about total passengers on flights.  There was also some data that was ambiguous or missing that could affect the analysis.
 
