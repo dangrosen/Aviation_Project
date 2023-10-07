@@ -1,5 +1,5 @@
 <div style="text-align: center;" style="border: 2px solid black;">
-    <img src="plane_with_sunset.jpg" alt="Airplane in Storm" width="1000" height="400">
+    <img src="plane_with_sunset.jpg" alt="images/Airplane in Storm" width="1000" height="400">
 </div>
 
 # Risk Analysis: HDK & Co. New Aviation Division
@@ -26,7 +26,7 @@ There were some limitations to the data, however.  We did not know the total num
 
 Some of the key takeaways are shown in the following graphs:
 
-djmkdyhkjmdyhjkmdyh
+Accidents involving injuries, especially fatalities, have been decreasing over the last 30 years.
 
 <div style="text-align: center;" style="border: 2px solid black;">
     <img src="injury_type_over_time.jpg" alt="Airplane in Storm" width="800" height="400">
@@ -83,8 +83,11 @@ For general questions, please contact Dan Rosen at <a href="mailto:dan_rosen@out
 **Sources**
 
 <a href="https://www.airbus.com/en/products-services/commercial-aircraft/the-life-cycle-of-an-aircraft/operating-life">30 years for airplane lifetime</a>
+<br>
 <a href="https://assetsamerica.com/aircraft-manufacturers/">Top 10 airplane manufacturers</a>
+<br>
 <a href="https://www.faa.gov/about/history/brief_history">1950's air safety standards</a>
+<br>
 <a href="https://medium.com/faa/introduction-to-safety-risk-management-8e1b1ac15b4c">FRAT tools</a>
 
 ## Repository Structure
