@@ -72,7 +72,7 @@ Further analysis is required to improve risk assessment and gain beneficial insi
 
 The complete analysis can be found in the <a href="aviation_division_FINAL.ipynb" target="_blank">Jupyter Notebook</a> and in our <a href="presentation.pdf" target="_blank">presentation</a>.
 
-To view the interactive visuals, please see the <a href="[presentation.pdf](https://public.tableau.com/app/profile/harshitha.thota/viz/AviationRiskAnalysis/Dashboard1)" target="_blank">dashboard</a>.
+To view the interactive visuals, please see the <a href="https://public.tableau.com/app/profile/harshitha.thota/viz/AviationRiskAnalysis/Dashboard1" target="_blank">dashboard</a>.
 
 To view the interactive visuals, please see the [dashboard](https://public.tableau.com/app/profile/harshitha.thota/viz/AviationRiskAnalysis/Dashboard1).
 
