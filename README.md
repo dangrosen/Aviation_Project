@@ -1,12 +1,16 @@
-![top image](https://static.mobilityengineeringtech.com/images/econa/fields/3/com_content_article/40078/adt-1021-p8_fig1_primary-feature-item.jpg)<img src="image.png" width="800" height="225">
+<div style="text-align: center;" style="border: 2px solid black;">
+    <img src="images/plane_with_sunset.jpg" alt="Plane with sunset" width="1000" height="300">
+</div>
 
-# Risk Analysis: HDK % Co. New Aviation Division
+# Risk Analysis: HDK & Co. New Aviation Division
 
 ## Overview
 
 We analyzed risk factors involved with HDK % Co. starting a new aviation division.  Selecting the aircrafts with the least amount of risk involves many factors.  The accident data that we studied allowed us to focus on some of these, including different aircraft manufacturers, the type of airplane build, and weather conditions.
 
-![second_image](https://www.aerotime.aero/images/Shutterstock_2187109333.jpg)
+<div style="text-align: center;" style="border: 2px solid black;">
+    <img src="images/plane_with_blue_sky.jpg" alt="Plane with blue sky" width="1000" height="300">
+</div>
 
 ## Business Problem
 
@@ -22,11 +26,25 @@ There were some limitations to the data, however.  We did not know the total num
 
 Some of the key takeaways are shown in the following graphs:
 
-![output](https://github.com/dangrosen/Aviation_Project/assets/144970048/60b48b2f-3f68-4fe2-81c7-57fe5ce1bd61)
+Accidents involving injuries, especially fatalities, have been decreasing over the last 30 years.
 
+<div style="text-align: center;" style="border: 2px solid black;">
+    <img src="images/injury_type_over_time.jpg" alt="Injury Over Time" width="800" height="400">
+</div>
 
-![Dashboard 1](https://github.com/dangrosen/Aviation_Project/assets/144970048/e256a4cc-ed27-4f61-843f-fd6d7c6164cd)
+<br>
+<br/>
 
+<div style="text-align: center;" style="border: 2px solid black;">
+    <img src="images/accidents_by_weather_type.png" alt="Accidents by Weather" width="800" height="500">
+</div>
+
+<br>
+<br/>
+
+<div style="text-align: center;" style="border: 2px solid black;">
+    <img src="images/manufacturer_performance.jpg" alt="Manufacturer Performance" width="800" height="500">
+</div>
 
 
 ## Conclusion
@@ -52,11 +70,25 @@ Further analysis is required to improve risk assessment and gain beneficial insi
 
 ## Appendix
 
-The complete analysis can be found in the NOTEBOOK and in our PRESENTATION.
+The complete analysis can be found in the <a href="aviation_division_FINAL.ipynb">Jupyter Notebook</a> and in our <a href="presentation.pdf">presentation</a>.
 
-To view the interactive visuals, please see the [dashboard](https://public.tableau.com/app/profile/harshitha.thota/viz/AviationRiskAnalysis/Dashboard1).
+To view the interactive visuals, please see the <a href="https://public.tableau.com/app/profile/harshitha.thota/viz/AviationRiskAnalysis/Dashboard1">dashboard</a>.
 
-<Links to sources?>
+For technical questions, please contact Kari Primiano at <a href="mailto:kkprim@gmail.com">kkprim@gmail.com</a>.
+<br>
+For presentation or visualizations questions, please contact Harshitha Thota at <a href="mailto:harshitha.thota@gmail.com">harshitha.thota@gmail.com</a>.
+<br>
+For general questions, please contact Dan Rosen at <a href="mailto:dan_rosen@outlook.com">dan_rosen@outlook.com</a>.
+
+**Sources**
+
+<a href="https://www.airbus.com/en/products-services/commercial-aircraft/the-life-cycle-of-an-aircraft/operating-life">30 years for airplane lifetime</a>
+<br>
+<a href="https://assetsamerica.com/aircraft-manufacturers/">Top 10 airplane manufacturers</a>
+<br>
+<a href="https://www.faa.gov/about/history/brief_history">1950's air safety standards</a>
+<br>
+<a href="https://medium.com/faa/introduction-to-safety-risk-management-8e1b1ac15b4c">FRAT tools</a>
 
 ## Repository Structure
 
